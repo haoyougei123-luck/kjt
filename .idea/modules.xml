@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Console/Console.iml" filepath="$PROJECT_DIR$/Console/Console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kjt.iml" filepath="$PROJECT_DIR$/kjt.iml" />
+      <module fileurl="file://E:/project/MyPmsnx2/pmsnx.iml" filepath="E:/project/MyPmsnx2/pmsnx.iml" />
+    </modules>
+  </component>
+</project>

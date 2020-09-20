@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pmsnx:war">
+    <output-path>E:/project/MyPmsnx2/target</output-path>
+    <root id="archive" name="pms.war">
+      <element id="artifact" artifact-name="pmsnx:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.topcheer:common-base:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/topcheer/common-base/1.1-SNAPSHOT/common-base-1.1-20200414.094054-28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/topcheer/common-base/1.1-SNAPSHOT/common-base-1.1-20200414.094054-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/topcheer/common-base/1.1-SNAPSHOT/common-base-1.1-20200414.094054-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
